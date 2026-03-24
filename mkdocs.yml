@@ -1,6 +1,8 @@
 site_name: Agent Payment Standard (APS)
 site_description: Building the Agent Payment Standard you can trust.
 site_url: https://agent-payment-standard.github.io/Agent-Payment-Standard-Website/
+repo_url: https://github.com/Agent-Payment-Standard
+repo_name: Agent-Payment-Standard
 
 theme:
   name: material
@@ -59,5 +61,12 @@ nav:
   - Challenges: challenges.md
   - Roadmap: roadmap.md
   - Participate: participate.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Agent-Payment-Standard
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/AgentPayStd
 
 copyright: Copyright &copy; 2026 Agent Payment Standard (APS) - Licensed under Apache 2.0
