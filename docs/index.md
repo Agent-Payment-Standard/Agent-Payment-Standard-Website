@@ -4,7 +4,7 @@
   <img src="images/logo-square.png" alt="Agent Payment Standard Logo" width="200" />
 </div>
 
-**Building the Agent Payment Standard you can trust.**
+**Building the Agent Payment Standard you can trust**
 
 The **Agent Payment Standard (APS)** is dedicated to establishing a comprehensive set of standards—ranging from identity verification and transaction authorization to compliance auditing—designed to resolve the trust gap in machine-led payments and provide the financial infrastructure for the ubiquitous application of AI Agents. Our goal is to become the **"PCI DSS" for the AI Agent era**.
 
