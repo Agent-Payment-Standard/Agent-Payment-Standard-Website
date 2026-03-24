@@ -1,6 +1,6 @@
 site_name: Agent Payment Standard (APS)
 site_description: Building the Agent Payment Standard you can trust.
-site_url: https://agent-payment-standard.github.io/
+site_url: https://agent-payment-standard.github.io/Agent-Payment-Standard-Website/
 
 theme:
   name: material
