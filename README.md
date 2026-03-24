@@ -18,4 +18,4 @@ This repository contains the source code for the APS documentation site.
 - `.gitignore`: Standard exclusions for Python/MkDocs build artifacts.
 
 ---
-Building a Trusted Future for Agent-Led Payments.
+Building the Agent Payment Standard you can trust.
