@@ -4,6 +4,8 @@ site_url: https://agent-payment-standard.github.io/Agent-Payment-Standard-Websit
 
 theme:
   name: material
+  logo: images/logo-square.png
+  favicon: images/logo-square.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
