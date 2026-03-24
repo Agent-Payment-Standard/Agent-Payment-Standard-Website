@@ -24,4 +24,4 @@ To ensure the credibility and sustainable development of the standard, APS follo
 -   **Legal & Compliance**: Built upon international financial regulatory laws.
 -   **Open Governance**: Managed through a transparent RFC (Request for Comments) process.
 
-[Learn more about our Principles](principles.md){ .md-button .md-button--primary }
+[Our github repo](https://github.com/Agent-Payment-Standard){ .md-button .md-button--primary }
