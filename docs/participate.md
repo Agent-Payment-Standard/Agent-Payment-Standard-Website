@@ -1,4 +1,4 @@
-# How to Participate
+# Contact & Participate
 
 If you share our vision, we welcome you to join us. To help us better understand your background, please include a **brief personal introduction**, **relevant industry experience**, and a link to your **LinkedIn profile** or **CV/Resume** in your application email.
 
