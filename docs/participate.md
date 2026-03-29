@@ -9,7 +9,7 @@ If you share our vision, we welcome you to join us. To help us better understand
 
 ## Corporate Participation
 
-Apply for enterprise-level technical support or joint research. Please email [contact@agent-payment-standard.org](mailto:contact@agent-payment-standard.org) with the subject "Application for Corporate Contribution," or fill out the [Application Form](https://forms.gle/VdkSckUuUHxj935g7).
+-   **Corporate Participation**: Apply for enterprise-level technical support or joint research. Please email [contact@agent-payment-standard.org](mailto:contact@agent-payment-standard.org) with the subject "Application for Corporate Contribution," or fill out the [Application Form](https://forms.gle/VdkSckUuUHxj935g7).
 
 ## Real-time Collaboration
 
