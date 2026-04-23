@@ -60,6 +60,10 @@ nav:
   - Why APS?: why-aps.md
   - Challenges: challenges.md
   - Roadmap: roadmap.md
+  - RFC:
+      - Know Your Agent (KYA): RFC/KYA_RFC.md
+      - Verify Your Agent (VYA): RFC/VYA_RFC.md
+      - Transaction Type: RFC/Transaction_Type_RFC.md
   - Contact & Participate: participate.md
 
 extra:
